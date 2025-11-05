@@ -83,28 +83,28 @@
   ],
   "workExperience": [
     {
-      "position": "Full Stack Developer",
+      "position": "Full Stack Developer/Founder",
       "company": "EdGenAI",
       "period": "Oct 2024 — Present",
       "description": "Own the automated grading platform's website development, user acceptance testing and launch cycles, and the production-ready release across Next.js, Azure Functions, and Python scoring engines.",
       "technologies": ["Next.js", "Python", "Azure", "OpenAI", "PostgreSQL"]
     },
     {
-      "position": "Founder & Product Engineer",
+      "position": "Full Stack Developer",
       "company": "MyCareerMate",
       "period": "Jun 2025 — Present",
       "description": "Leading the resume builder start-up through website build, prototype validation, user testing, and the scalable production release serving 50K+ job seekers.",
       "technologies": ["React", "Node.js", "LangChain", "Vercel"]
     },
     {
-      "position": "Lead Full Stack Engineer",
-      "company": "MyIntegrator / SoundPro",
+      "position": "Backend developer",
+      "company": "MyIntegrator (SoundPro Project)",
       "period": "Mar 2024 — Jun 2024",
       "description": "Delivered the SoundPro eCommerce website end-to-end, driving website development, user acceptance testing and launch, and a production-ready storefront for the intercom marketplace.",
       "technologies": ["Next.js", "TypeScript", "Python", "Stripe"]
     },
     {
-      "position": "Backend Engineer",
+      "position": "Full Stack Developer",
       "company": "Melbourne Institute of Technology",
       "period": "Jun 2023 — Jun 2025",
       "description": "Built the institute's LMS website, introducing modular services for assessments, content scheduling, and student analytics across 16,000+ learners.",
