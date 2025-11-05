@@ -1,0 +1,169 @@
+{
+  "personalInfo": {
+    "name": "Abhijeet Mishra",
+    "title": "Full Stack & AI Engineer",
+    "email": "abhi291097@gmail.com",
+    "phone": "+61 415 149 669",
+    "location": "Melbourne, Australia",
+    "about": [
+      "I'm Abhijeet Mishra, a Melbourne-based full stack developer focused on building resilient platforms for universities, startups, and eCommerce teams that need dependable automation.",
+      "My build process covers prototyping, user walkthroughs, and production-ready deployment so every release ships with confidence across the entire stack.",
+      "Along the way I've delivered AI-powered solutions like the EdGenAI grading assistant, the MyCareerMate resume builder, and Melbourne Institute of Technology's LMS for 16,000+ students."
+    ],
+    "tagline": "Full stack development across prototyping, deployment, and practical AI solutions."
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages",
+        "skills": [
+          {"name": "TypeScript", "level": 95},
+          {"name": "Python", "level": 90},
+          {"name": "SQL", "level": 85},
+          {"name": "PHP", "level": 70}
+        ],
+        "color": "bg-blue-500"
+      },
+      {
+        "name": "Frameworks",
+        "skills": [
+          {"name": "Next.js", "level": 95},
+          {"name": "React", "level": 92},
+          {"name": "Node.js", "level": 88},
+          {"name": "Express", "level": 84},
+          {"name": "WordPress", "level": 80}
+        ],
+        "color": "bg-green-500"
+      },
+      {
+        "name": "AI & Automation",
+        "skills": [
+          {"name": "OpenAI API", "level": 92},
+          {"name": "LangChain", "level": 85},
+          {"name": "Prompt Ops", "level": 95},
+          {"name": "Vector Search", "level": 80}
+        ],
+        "color": "bg-purple-500"
+      },
+      {
+        "name": "Cloud & Data",
+        "skills": [
+          {"name": "Vercel", "level": 92},
+          {"name": "AWS", "level": 82},
+          {"name": "Supabase", "level": 78},
+          {"name": "Azure", "level": 74}
+        ],
+        "color": "bg-yellow-500"
+      },
+      {
+        "name": "Product",
+        "skills": [
+          {"name": "Product Strategy", "level": 90},
+          {"name": "Stakeholder Workshops", "level": 88},
+          {"name": "Agile Leadership", "level": 86},
+          {"name": "UX Writing", "level": 78}
+        ],
+        "color": "bg-red-500"
+      }
+    ]
+  },
+  "education": [
+    {
+      "degree": "Master of Information Technology",
+      "institution": "RMIT University",
+      "year": "2022 — Present",
+      "description": "Focusing on enterprise-scale cloud architecture, AI for business, and human-centred design while collaborating with founders across Melbourne.",
+      "subjects": [
+        "Cloud Architecture",
+        "AI for Business",
+        "Product Leadership",
+        "Human-Centred Design"
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "position": "Full Stack Developer",
+      "company": "EdGenAI",
+      "period": "Oct 2024 — Present",
+      "description": "Own the automated grading platform's website development, user acceptance testing and launch cycles, and the production-ready release across Next.js, Azure Functions, and Python scoring engines.",
+      "technologies": ["Next.js", "Python", "Azure", "OpenAI", "PostgreSQL"]
+    },
+    {
+      "position": "Founder & Product Engineer",
+      "company": "MyCareerMate",
+      "period": "Jun 2025 — Present",
+      "description": "Leading the resume builder start-up through website build, prototype validation, user testing, and the scalable production release serving 50K+ job seekers.",
+      "technologies": ["React", "Node.js", "LangChain", "Vercel"]
+    },
+    {
+      "position": "Lead Full Stack Engineer",
+      "company": "MyIntegrator / SoundPro",
+      "period": "Mar 2024 — Jun 2024",
+      "description": "Delivered the SoundPro eCommerce website end-to-end, driving website development, user acceptance testing and launch, and a production-ready storefront for the intercom marketplace.",
+      "technologies": ["Next.js", "TypeScript", "Python", "Stripe"]
+    },
+    {
+      "position": "Backend Engineer",
+      "company": "Melbourne Institute of Technology",
+      "period": "Jun 2023 — Jun 2025",
+      "description": "Built the institute's LMS website, introducing modular services for assessments, content scheduling, and student analytics across 16,000+ learners.",
+      "technologies": ["Node.js", "Supabase", "PostgreSQL", "AWS"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "EdGenAI Automated Grading",
+      "description": "Website development plus prototype-to-production pipeline for the AI grader, covering user acceptance testing, launch, and production hardening inside Azure.",
+      "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Website Development", "User Acceptance Testing", "Launch", "Production Ready"],
+      "live": "https://edgenai.com.au/"
+    },
+    {
+      "title": "MyCareerMate",
+      "description": "AI-powered resume builder where I shipped the prototype, ran user testing sprints, and launched the scalable production version on Vercel.",
+      "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Website Build", "React", "LangChain", "Scalable Production"],
+      "live": "https://beta.mycareermate.io/"
+    },
+    {
+      "title": "SoundPro eCommerce Platform",
+      "description": "MyIntegrator engagement to build the SoundPro intercom marketplace website with custom checkout UX, user acceptance testing, launch planning, and a production-ready storefront.",
+      "image": "https://images.unsplash.com/photo-1512446733611-9099a758e5f0?auto=format&fit=crop&w=800&q=80",
+      "tags": ["Website Development", "User Acceptance Testing", "Launch", "Production Ready"],
+      "live": "https://soundpro.com/collections/intercom"
+    }
+  ],
+  "extraCurricular": [
+    {
+      "role": "Builder",
+      "organization": "MyCareerMate",
+      "period": "2022 — Present",
+      "description": "Bootstrapped the platform and community events that taught job seekers how to craft measurable stories."
+    },
+    {
+      "role": "Mentor",
+      "organization": "Student Founder Circles",
+      "period": "2021 — Present",
+      "description": "Host weekend sprints for student founders exploring AI-first ideas across Melbourne."
+    },
+    {
+      "role": "Speaker",
+      "organization": "EdTech Victoria",
+      "period": "2023",
+      "description": "Share practical frameworks for mixing human grading with LLM copilots across universities."
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "Email",
+      "url": "mailto:abhi291097@gmail.com",
+      "ariaLabel": "Send an email"
+    },
+    {
+      "name": "Phone",
+      "url": "tel:+61415149669",
+      "ariaLabel": "Call Abhijeet Mishra"
+    }
+  ]
+}
