@@ -6,6 +6,7 @@ import data from "@/data.json";
 
 const Hero = () => {
   const imageRef = useRef<HTMLImageElement>(null);
+  const profileImage = `${import.meta.env.BASE_URL}profile.jpg`;
 
   const scrollToContact = () => {
     document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
@@ -54,7 +55,7 @@ const Hero = () => {
           <div className="absolute inset-0 bg-gradient-to-tr from-primary/30 to-blue-300/30 animate-spin-slow -z-10" />
           <img
             ref={imageRef}
-            src="/profile.jpg"
+            src={profileImage}
             alt="Abhijeet Mishra"
             className="w-full h-full object-cover rounded-3xl transition-transform duration-75"
           />
